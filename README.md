@@ -1,3 +1,3 @@
 # thursday-git-demo
 
-Hi from the git demo 2
+I am the main branch!
